@@ -8,5 +8,8 @@ My first simple .wav player using only winapi
 первоначального направления стрелкой вверх, эффект тремоло (колебания амплитуды) зажатием клавиши Shift.
 Для генерации синусоид (а.к.а. синтезатор) используется набор клавиш ASDFGHJKL.
 
+### Пример
+https://user-images.githubusercontent.com/89595575/147252488-6a08afa2-50f6-41b5-aeb4-9bdcb89407c8.mp4
+
 ## Компиляция
 Для компиляции рекомендуется использовать MSVC x64. При использовании Visual Studio откройте файл проекта CodeMelody.vcxproj
